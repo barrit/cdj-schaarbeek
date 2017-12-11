@@ -1,0 +1,16 @@
+h1 { font-size: 400%; }
+h2 { font-size: 200%; }
+
+html {
+  background: #378b29 url("../images/patroon-kerst.jpg");
+}
+
+body { 
+	color: #fff;
+	background: #378b29;
+  padding: 4em;
+}
+
+a {
+  color: #ff7878;
+}

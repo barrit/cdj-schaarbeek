@@ -1,0 +1,35 @@
+h1, h2 {
+  color: #9ccadc;
+  font-weight: bold;
+}
+
+h1 {
+	font-size: 450%;
+}
+
+h2 {
+	font-size: 250%;
+  margin-top: 75px;
+}
+
+html {
+ 	background: #000 url("../images/patroon-ruimte.jpg");
+}
+
+body { 
+	color: #fff;
+	background: #000;
+ 	padding: 3em;
+}
+
+a {
+  color: #ffdc78;
+}
+
+a:hover {
+  color: #debe62;
+}
+
+p, img {
+	margin-bottom: 1em;
+}
