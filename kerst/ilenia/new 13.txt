@@ -1,0 +1,6 @@
+Kiwisimo website proposal
+
+I need Executive summary - what kind of website? executive summary
+"Forsighters requires a full website build to support your digital growth strategy. This website will allow you expose your brand to organic audiences via search engines, leverage digital advertising to boost lead generation, and deploy content marketing to build brand awareness and authority."
+
+Solution CMS + ERP ex.Odoo

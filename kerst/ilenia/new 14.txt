@@ -1,0 +1,73 @@
+/* Euro Blue Block*/
+div.ms-rteElement-EuroBlue { -ms-name: "Euro Blue Block"; -ms-element: "true"; }
+.ms-rteElement-EuroBlue { background: #223E90; color: #FFFFFF; padding: 10px; }
+.ms-rteElement-EuroBlue H1,
+.ms-rteElement-EuroBlue H2,
+.ms-rteElement-EuroBlue H3,
+.ms-rteElement-EuroBlue H4,
+.ms-rteElement-EuroBlue H5 { color: #F8EFA6; }
+
+
+/* Euro Yellow Block*/
+div.ms-rteElement-EuroYellow { -ms-name: "Euro Yellow Block"; -ms-element: "true"; }
+.ms-rteElement-EuroYellow { background: #FFCC04; color: #000000; padding: 10px; }
+
+/* Euro Mariner Block*/
+div.ms-rteElement-Mariner { -ms-name: "Mariner Block"; -ms-element: "true"; }
+.ms-rteElement-Mariner { background: #3284C6; color: #FFFFFF; padding: 10px; }
+.ms-rteElement-Mariner a,
+.ms-rteElement-Mariner a:hover,
+.ms-rteElement-Mariner a:visited { color: #FFFFFF; font-weight: bold; }
+
+/* Euro Light Yellow Block*/
+div.ms-rteElement-LightYellow { -ms-name: "Light Yellow Block"; -ms-element: "true"; }
+.ms-rteElement-LightYellow { background: #F8EFA6; color: #3F392A; padding: 10px; }
+.ms-rteElement-LightYellow H1,
+.ms-rteElement-LightYellow H2,
+.ms-rteElement-LightYellow H3,
+.ms-rteElement-LightYellow H4,
+.ms-rteElement-LightYellow H5 { color: #F8EFA6; }
+
+/* Euro Light Grey Block*/
+div.ms-rteElement-Grey { -ms-name: "Grey Block"; -ms-element: "true"; }
+.ms-rteElement-Grey { background: #686657; color: #ffffff; padding: 10px; }
+.ms-rteElement-Grey H1,
+.ms-rteElement-Grey H2,
+.ms-rteElement-Grey H3,
+.ms-rteElement-Grey H4,
+.ms-rteElement-Grey H5 { color: #F8EFA6; }
+
+.ms-rteElement-Grey a,
+.ms-rteElement-Grey a:hover,
+.ms-rteElement-Grey a:visited { color: #ffffff; font-weight: bold; }
+
+.ms-rtestate-field a,
+.ms-rtestate-field a:link{font-weight:bold;}
+.ms-rtestate-field h2, h2.ms-rteElement-H2{color:#233E90;}
+h1.ms-rteElement-H1B{color:#3284C6;}
+h2.ms-rteElement-H2B , .ms-rteStyle-Accent2{color:#B25900;}
+.ms-rtestate-field h3, h3.ms-rteElement-H3{color:#685729;}
+.ms-rtestate-field h4, h4.ms-rteElement-H4{color:#8D8D89; font-weight:bold;}
+h3.ms-rteElement-H3B{color:#3f392a; background:#FFCC04; padding:5px;}
+h4.ms-rteElement-H4B{color:#686657 ; background:#EEECE4; padding:5px;}
+.ms-rteStyle-References, .ms-rteStyle-IntenseReferences{color:#686657;}
+.ms-rteStyle-IntenseQuote, .ms-rteStyle-IntenseEmphasis, .ms-rteStyle-IntenseReferences{text-decoration:none;font-weight:bold;}
+.ms-rteStyle-Caption{color:#686657;}
+
+.ms-rteStyle-error {
+    -ms-name: "Alert";
+    color:#bc1f3e;
+}
+
+.ms-rteStyle-valid {
+    -ms-name: "Validation";
+    color:#82b740;
+}
+
+
+.ms-rteImage-responsive {
+    -ms-name: "Responsive image";
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
